@@ -1,0 +1,24 @@
+Date,Region,Product,Units Sold,Price
+2025-01-15,North,Laptop,10,1200
+2025-01-17,South,Mouse,50,25
+2025-02-05,North,Keyboard,30,75
+2025-02-12,West,Laptop,8,1250
+2025-03-20,East,Monitor,20,300
+2025-03-22,South,Laptop,15,1150
+2025-04-10,West,Mouse,60,25
+2025-04-18,North,Monitor,18,310
+2025-05-09,East,Keyboard,25,80
+2025-05-21,South,Monitor,22,290
+2025-06-11,West,Keyboard,35,70
+2025-06-30,North,Mouse,45,30
+2025-07-07,East,Laptop,12,1220
+2025-07-19,South,Keyboard,28,75
+2025-08-01,West,Monitor,15,320
+2025-08-14,North,Laptop,11,1180
+2025-09-03,East,Mouse,55,25
+2025-09-25,South,Laptop,13,1170
+2025-10-16,West,Mouse,65,26
+2025-11-08,North,Keyboard,32,78
+2025-11-28,East,Monitor,24,305
+2025-12-10,South,Keyboard,30,80
+2025-12-20,West,Laptop,9,1280
